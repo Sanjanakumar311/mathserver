@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+``` pyhon
 math.html
 
 {% load static %}
@@ -131,6 +132,7 @@ urlpatterns = [
     path('powerlamp/',views.powerlamp,name="powerlamp"),
     path('',views.powerlamp,name="powerlamproot")
 ]
+```
 # SERVER SIDE PROCESSING:
 ![Screenshot 2024-12-08 193626](https://github.com/user-attachments/assets/46179867-6d46-4a7e-9514-5d35070ed42a)
 
