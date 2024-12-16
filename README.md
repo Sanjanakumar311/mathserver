@@ -133,10 +133,9 @@ urlpatterns = [
     path('',views.powerlamp,name="powerlamproot")
 ]
 ```
-# SERVER SIDE PROCESSING:
-![Screenshot 2024-12-08 193626](https://github.com/user-attachments/assets/46179867-6d46-4a7e-9514-5d35070ed42a)
-
 # HOMEPAGE:
+![Screenshot 2024-12-07 235645](https://github.com/user-attachments/assets/17d6f1d5-da0d-41b9-8cd4-588b2d8c3d76)
+# SERVER SIDE PROCESSING:
 ![Screenshot 2024-12-08 193604](https://github.com/user-attachments/assets/191be386-8183-4b3b-836a-5f4c1fa33bde)
 
 # RESULT:
